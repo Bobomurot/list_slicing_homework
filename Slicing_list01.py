@@ -6,4 +6,5 @@ def main(numbers):
     Returns:
         list: return answer.
     """
-    return
+    arr = numbers[0: : 2]
+    return arr

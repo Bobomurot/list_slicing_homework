@@ -7,4 +7,5 @@ def main(list1,n):
     Returns:
         list: return answer.
     """
-    return
+    # return list1[::-n] # bu holatda ham dastur ishlaydi
+    return list1[0: :-n]

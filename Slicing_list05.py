@@ -8,4 +8,5 @@ def main(list1,n,k):
     Returns:
         list: return answer.
     """
-    return
+    arr = list1[n:k+1]
+    return arr

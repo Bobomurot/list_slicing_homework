@@ -6,4 +6,5 @@ def main(list1):
     Returns:
         list: return answer.
     """
-    return
+    arr = (list1[-1: :-1])
+    return arr
